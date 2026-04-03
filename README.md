@@ -11,6 +11,6 @@ customer churn for a telecom company.
 - Analytics dashboard
 
 ## How to run
-pip install -r requirements.txt
-python train_model.py
-python -m streamlit run app.py
+- pip install -r requirements.txt
+- python train_model.py
+- python -m streamlit run app.py
