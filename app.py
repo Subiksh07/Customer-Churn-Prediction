@@ -155,7 +155,7 @@ st.markdown(f"""
 <div class="top-banner">
     <div>
         <div class="banner-title">Customer Churn Prediction Dashboard</div>
-        <div class="banner-sub">XGBoost model with SMOTE balancing — Final Year Project</div>
+        <div class="banner-sub">XGBoost model with SMOTE balancing</div>
     </div>
     <div class="banner-badge">Accuracy: {metrics['accuracy']}%</div>
 </div>
